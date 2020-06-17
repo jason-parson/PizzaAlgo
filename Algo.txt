@@ -1,2 +1,8 @@
-Decide which business to order from
-Decide which type of pizza to order 
+Device on Pizza place 
+Call Pizza place
+Order Pizza 
+    3a. Select Toppings
+    3b. Select Crust 
+Pay for Pizza
+Wait for Delivery 
+Order Pizza
